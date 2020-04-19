@@ -36,4 +36,9 @@ KUVAT
 
 #### d) Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
 
+* `git log`
+log-komento näyttää repoon tehdyt muutokset/commitit. Muutoslokista selviää jokaisen muutoksen token, muutoksen tehnyt henkilö (author),
+muutoksen tarkka aika (date) sekä muutoksentekijän jättämä kommentti muutoksesta (esim. "Raportointia")
+KUVA
 
+* `git diff`
