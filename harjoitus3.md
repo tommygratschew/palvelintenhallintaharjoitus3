@@ -46,6 +46,8 @@ muotoilun haluamaani muotoon, jolloin se näytti tältä
 
 ![5]
 
+---
+
 #### d) Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
 
 * `git log`
@@ -70,6 +72,8 @@ terminaalissa näkyy kyseisen tiedoston jokainen rivi numeroituna, sen sisältö
 
 ![8]
 
+---
+
 #### e) Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset –hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
 
 Kirjoitin raportin tiedostoon "TYHMÄ MUUTOS" ja tallensin tiedoston.
@@ -81,6 +85,8 @@ Tämän jäleen ajoin komennon `git reset --hard`, joka antoi seuraavan ilmoituk
 ![10]
 
 Eli muutokset oltiin muutettu takaisin viimeisimpään committiin.
+
+---
 
 #### f) Tee uusi salt-moduli. Voit asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot. (Tietysti eri ohjelma kuin aiemmissa tehtävissä, tarkoitushan on harjoitella Salttia)
 
@@ -100,6 +106,10 @@ Vastaukseksi sain sen, että komento onnistui (mutta mitään ei muutettu). Eli 
 Tarkistin vielä ohjelman varmasti asentuneen hakemalla sitä käynnistys-valikosta ja löysinkin ohjelman myös sieltä.
 
 ![14]
+
+---
+
+#### Lähteet
 
 [1]: https://i.imgur.com/oO3menW.png "1"
 [2]: https://i.imgur.com/mkj9XqB.png "2"
