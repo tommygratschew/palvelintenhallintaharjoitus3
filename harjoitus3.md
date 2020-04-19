@@ -32,14 +32,19 @@ komennon `git config --global credential.helper "cache --timeout=3600"` Tero Kar
 KUVA
 Huomasin, että kaikki kirjoittamani asiast eivät olleet menneet sellaiseen muotoiluun kun olisin toivonut.
 Löysinkin [cheatsheetin](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), jonka avulla sain muokattua
-muotoilun haluttuun muotoon, jolloin se näytti tältä
+muotoilun haluamaani muotoon, jolloin se näytti tältä
 KUVAT
 
 #### d) Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
 
 * `git log`
+
 log-komento näyttää repoon tehdyt muutokset/commitit. Muutoslokista selviää jokaisen muutoksen token, muutoksen tehnyt henkilö (author),
 muutoksen tarkka aika (date) sekä muutoksentekijän jättämä kommentti muutoksesta (esim. "Raportointia")
 KUVA
 
 * `git diff`
+
+diff-komennolla voidaan verrata miten ja missä tiedostoissa on eroja githubissa oleviin tiedostoihin verrattuna.
+KUVA
+Esimerkiksi en commitannut vielä viimeisimpiä muutoksia raporttiin, jolloin diff-komento näytti nämä eroavat rivit + -merkillä.
