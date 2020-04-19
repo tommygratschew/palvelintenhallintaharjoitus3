@@ -63,3 +63,13 @@ Tämän jäleen ajoin komennon `git reset --hard`, joka antoi seuraavan ilmoituk
 KUVA
 Eli muutokset oltiin muutettu takaisin viimeisimpään committiin.
 
+#### f) Tee uusi salt-moduli. Voit asentaa ja konfiguroida minkä vain uuden ohjelman: demonin, työpöytäohjelman tai komentokehotteesta toimivan ohjelman. Käytä tarvittaessa ‘find -printf “%T+ %p\n”|sort’ löytääksesi uudet asetustiedostot. (Tietysti eri ohjelma kuin aiemmissa tehtävissä, tarkoitushan on harjoitella Salttia)
+
+Päätin tehdä moduulin, joka asentaa Kritan. Aloitin luomalla Krita-kansion komennolla `sudo mkdir /srv/salt/krita/`, jonka sisälle loin vielä init.sls -tiedoston komennolla `sudoedit /srv/salt/krita/init.sls`. Tiedoston sisällöksi kirjoitin seuraavan
+KUVA
+Jonka jälkeen ajoin moduulin komennolla `sudo salt '*' state.apply krita`, sain vaustaukseksi toiminnon onnistuneen
+KUVA
+Ajoin saman komennon kuitenkin uudestaan varmistaakseni, että se oli idempotentti.
+KUVA
+Vastaukseksi sain sen, että komento onnistui (mutta mitään ei muutettu). Eli moduuli on idempotentti.
+
