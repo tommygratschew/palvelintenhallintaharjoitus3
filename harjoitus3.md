@@ -1,6 +1,6 @@
 # Palvelinten hallinta ICT4TN022-3005 Harjoitus 3
 
-tehtävän suorittaminen aloitettu 19.4.2020 klo. 15:30
+###### Tehtävän suorittaminen aloitettu 19.4.2020 klo. 15:30
 
 Laitteen/alustan tiedot, jolla tehtävä suoritettiin:
 
@@ -14,4 +14,4 @@ Aloitin tehtävän ajamalla komennon
 Sekä testasin minionin toimivuuden komennolla
 `sudo salt '*' cmd.run 'whoami'`
 
-# a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita ‘#’ tekee otsikon, sisennys merkitsee koodinpätkän.
+##### a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita ‘#’ tekee otsikon, sisennys merkitsee koodinpätkän.
