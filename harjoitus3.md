@@ -38,7 +38,7 @@ komennon `git config --global credential.helper "cache --timeout=3600"` Tero Kar
 
 ![3]
 
-Huomasin, että kaikki kirjoittamani asiast eivät olleet menneet sellaiseen muotoiluun kun olisin toivonut.
+Huomasin, että kaikki kirjoittamani asiat eivät olleet menneet toivomaani muotoiluun.
 Löysinkin [cheatsheetin](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), jonka avulla sain muokattua
 muotoilun haluamaani muotoon, jolloin se näytti tältä
 
@@ -67,7 +67,7 @@ Esimerkiksi en commitannut vielä viimeisimpiä muutoksia raporttiin, jolloin di
 
 * `git blame`
 
-blame-komennolla selviää, kuka on kirjoittany minkäkin rivin kustakin tiedostosta. Esimerkiksi ajamalla komennon `git blame harjoitus3.md` 
+blame-komennolla selviää, kuka on kirjoittanut minkäkin rivin kustakin tiedostosta. Esimerkiksi ajamalla komennon `git blame harjoitus3.md` 
 terminaalissa näkyy kyseisen tiedoston jokainen rivi numeroituna, sen sisältö, kirjoittaja ja aikaleima.
 
 ![8]
@@ -80,11 +80,11 @@ Kirjoitin raportin tiedostoon "TYHMÄ MUUTOS" ja tallensin tiedoston.
 
 ![9]
 
-Tämän jäleen ajoin komennon `git reset --hard`, joka antoi seuraavan ilmoituksen
+Tämän jälkeen ajoin komennon `git reset --hard`, joka antoi seuraavan ilmoituksen
 
 ![10]
 
-Eli muutokset oltiin muutettu takaisin viimeisimpään committiin.
+Eli muutokset oli muutettu takaisin viimeisimpään committiin.
 
 ---
 
@@ -103,7 +103,7 @@ Ajoin saman komennon kuitenkin uudestaan varmistaakseni, että se oli idempotent
 ![13]
 
 Vastaukseksi sain sen, että komento onnistui (mutta mitään ei muutettu). Eli moduuli oli idempotentti.
-Tarkistin vielä ohjelman varmasti asentuneen hakemalla sitä käynnistys-valikosta ja löysinkin ohjelman myös sieltä.
+Tarkistin vielä ohjelman varmasti asentuneen hakemalla sitä käynnistysvalikosta ja löysinkin ohjelman myös sieltä.
 
 ![14]
 
