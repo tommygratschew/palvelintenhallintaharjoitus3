@@ -55,4 +55,11 @@ blame-komennolla selviää, kuka on kirjoittany minkäkin rivin kustakin tiedost
 terminaalissa näkyy kyseisen tiedoston jokainen rivi numeroituna, sen sisältö, kirjoittaja ja aikaleima.
 KUVA
 
+#### e) Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset –hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+
+Kirjoitin raportin tiedostoon "TYHMÄ MUUTOS" ja tallensin tiedoston.
+KUVA
+Tämän jäleen ajoin komennon `git reset --hard`, joka antoi seuraavan ilmoituksen
+KUVA
+Eli muutokset oltiin muutettu takaisin viimeisimpään committiin.
 
