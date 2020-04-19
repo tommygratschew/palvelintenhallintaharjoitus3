@@ -77,17 +77,17 @@ Vastaukseksi sain sen, että komento onnistui (mutta mitään ei muutettu). Eli 
 Tarkistin vielä ohjelman varmasti asentuneen hakemalla sitä käynnistys-valikosta ja löysinkin ohjelman myös sieltä.
 ![14]
 
-[1]: https://i.imgur.com/oO3menW
-[2]: https://i.imgur.com/mkj9XqB
-[3]: https://i.imgur.com/myY7IjR
-[4]: https://i.imgur.com/ZJIr09P
-[5]: https://i.imgur.com/VxrfteK
-[6]: https://i.imgur.com/tNnqEtF
-[7]: https://i.imgur.com/T6xjfR4
-[8]: https://i.imgur.com/cCAEnMW
-[9]: https://i.imgur.com/9X3SFd3
-[10]: https://i.imgur.com/W8K58sJ
-[11]: https://i.imgur.com/jOL5kYQ
-[12]: https://i.imgur.com/doCz4ir
-[13]: https://i.imgur.com/GDqrsn4
-[14]: https://i.imgur.com/qBROrxs
+[1]: https://i.imgur.com/oO3menW "1"
+[2]: https://i.imgur.com/mkj9XqB "2"
+[3]: https://i.imgur.com/myY7IjR "3"
+[4]: https://i.imgur.com/ZJIr09P "4"
+[5]: https://i.imgur.com/VxrfteK "5"
+[6]: https://i.imgur.com/tNnqEtF "6"
+[7]: https://i.imgur.com/T6xjfR4 "7"
+[8]: https://i.imgur.com/cCAEnMW "8"
+[9]: https://i.imgur.com/9X3SFd3 "9"
+[10]: https://i.imgur.com/W8K58sJ "10"
+[11]: https://i.imgur.com/jOL5kYQ "11"
+[12]: https://i.imgur.com/doCz4ir "12"
+[13]: https://i.imgur.com/GDqrsn4 "13"
+[14]: https://i.imgur.com/qBROrxs "14"
