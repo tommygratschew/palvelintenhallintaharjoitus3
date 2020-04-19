@@ -4,10 +4,10 @@ tehtävän suorittaminen aloitettu 19.4.2020 klo. 15:30
 
 Laitteen/alustan tiedot, jolla tehtävä suoritettiin:
 
-..* Oracle VirtualBox 6.1.4
-..* Xubuntu 18.04.03 LTS (+ VirtualBox guest additions)
-..* 4GB RAM
-..* 8GB Levytilaa (dynaaminen)
+* Oracle VirtualBox 6.1.4
+* Xubuntu 18.04.03 LTS (+ VirtualBox guest additions)
+* 4GB RAM
+* 8GB Levytilaa (dynaaminen)
 
 Aloitin tehtävän ajamalla komennon
 `sudo apt-get update`
