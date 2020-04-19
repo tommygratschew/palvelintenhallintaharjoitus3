@@ -15,3 +15,9 @@ Sekä testasin minionin toimivuuden komennolla
 `sudo salt '*' cmd.run 'whoami'`
 
 #### a) MarkDown. Tee tämän tehtävän raportti MarkDownina. Helpointa on tehdä raportti GitHub-varastoon, jolloin md-päätteiset tiedostot muotoillaan automaattisesti. Tyhjä rivi tekee kappalejaon, risuaita ‘#’ tekee otsikon, sisennys merkitsee koodinpätkän.
+
+Aloitin harjoituksen luomalla uuden repon githubin verkkosivulla.
+ Annoin tälle repolle luovasti nimen "palvelintenhallintaharjoitus3".
+ Valitsin vielä, että github luo tälle repolle valmiiksi README-tiedoston, sekä lisenssiksi GNU GPL v3.0 -lisenssin.
+Tämän jälkeen sain seuraavan näkymän esiin selaimeen:
+KUVA
