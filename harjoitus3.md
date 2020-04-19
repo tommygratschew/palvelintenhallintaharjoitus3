@@ -107,9 +107,17 @@ Tarkistin vielä ohjelman varmasti asentuneen hakemalla sitä käynnistys-valiko
 
 ![14]
 
+###### Tehtävä suoritettu 19.4.2020 klo. 20:00
+
 ---
 
 #### Lähteet
+
+Karvinen, Tero 2020: Configuration Managment Systems – Palvelinten Hallinta – Spring 2020, h3. http://terokarvinen.com/2020/configuration-managment-systems-palvelinten-hallinta-ict4tn022-spring-2020/, Luettu 19.4.2020
+
+Pritchard, Adam: Markdown Cheatsheet. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet, Luettu 19.4.2020
+
+Karvinen, Tero 2016: http://terokarvinen.com/2016/publish-your-project-with-github, Luettu 19.4.2020
 
 [1]: https://i.imgur.com/oO3menW.png "1"
 [2]: https://i.imgur.com/mkj9XqB.png "2"
