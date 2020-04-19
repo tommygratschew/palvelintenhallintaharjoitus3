@@ -27,7 +27,8 @@ tiedostot repon nimiseen kansioon käyttäjän kotihakemistoon. Siirryin tähän
 `cd palvelintenhallintaharjoitus3/` ja loin uuden markdown-tiedoston komennolla `nano harjoitus3.md`. Aloitin
 raportin kirjoittamista tähän tiedostoon, jonka jälkeen tallensin sen ja siirsin sen githubbiin komennolla
 `git add . && git commit; git pull && git push` (komento päivittää samalla myös muiden repon käyttäjien tekemät muutokset omalle koneelle). Pienen taistelun sisäänkirjautumistietojen ja access tokenien kanssa,
-sain kuin sainkin tiedoston siirrettyä ja sitä pystyi tarkastelemaan repon github-sivulla.
+sain kuin sainkin tiedoston siirrettyä ja sitä pystyi tarkastelemaan repon github-sivulla. Ajoin tässä kohtaa myös 
+komennon `git config --global credential.helper "cache --timeout=3600"` Tero Karvisen [ohjeesta](http://terokarvinen.com/2016/publish-your-project-with-github), jotta minun ei tarvinnut jokaista committia tehdessäni kirjoittaa kirjautumistietoja uudestaan.
 KUVA
 Huomasin, että kaikki kirjoittamani asiast eivät olleet menneet sellaiseen muotoiluun kun olisin toivonut.
 Löysinkin [cheatsheetin](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), jonka avulla sain muokattua
