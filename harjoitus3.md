@@ -32,4 +32,8 @@ KUVA
 Huomasin, että kaikki kirjoittamani asiast eivät olleet menneet sellaiseen muotoiluun kun olisin toivonut.
 Löysinkin [cheatsheetin](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), jonka avulla sain muokattua
 muotoilun haluttuun muotoon, jolloin se näytti tältä
-KUVA
+KUVAT
+
+#### d) Näytä omalla git-varastollasi esimerkit komennoista ‘git log’, ‘git diff’ ja ‘git blame’. Selitä tulokset.
+
+
