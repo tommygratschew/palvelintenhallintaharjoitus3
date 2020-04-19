@@ -48,3 +48,11 @@ KUVA
 diff-komennolla voidaan verrata miten ja missä tiedostoissa on eroja githubissa oleviin tiedostoihin verrattuna.
 KUVA
 Esimerkiksi en commitannut vielä viimeisimpiä muutoksia raporttiin, jolloin diff-komento näytti nämä eroavat rivit + -merkillä.
+
+* `git blame`
+
+blame-komennolla selviää, kuka on kirjoittany minkäkin rivin kustakin tiedostosta. Esimerkiksi ajamalla komennon `git blame harjoitus3.md` 
+terminaalissa näkyy kyseisen tiedoston jokainen rivi numeroituna, sen sisältö, kirjoittaja ja aikaleima.
+KUVA
+
+
